@@ -1,0 +1,90 @@
+version: 1
+# 
+dn:: Y24944Oh44Kk44OzIOODpuODvOOCtuODvCDjga7pgKPntaHlhYg=
+cn:: 44Oh44Kk44OzIOODpuODvOOCtuODvCDjga7pgKPntaHlhYg=
+
+# 
+dn:: Y2495p6a5bKhIOWkqumDjg==
+cn:: 5p6a5bKhIOWkqumDjg==
+mail: im@example.org
+givenName:: 5aSq6YOO
+sn:: 5p6a5bKh
+nickName:: 44Gy44KJ44GK44GL44GV44KT
+title:: 44GV44KT
+mail: test@example.org
+mail: test@example.net
+mail: test@example.com
+mail: im@example.org
+mail: test@example.com
+street:: 55Wq5Zyw
+l:: 5biC5Yy655S65p2R
+postalCode:: 6YO15L6/
+st:: 6YO96YGT5bqc55yM
+c:: 5Zu9
+businessUrl: http://example.com
+homePhone: TEL
+fax: FAX
+mobile: PHONE
+businessStreet:: 5Yuk5YuZ77ya55Wq5Zyw
+businessLocality:: 5Yuk5YuZ77ya5biC5Yy655S65p2R
+businessPostal:: 5Yuk5YuZ77ya6YO15L6/
+businessSt:: 5Yuk5YuZ77ya6YO96YGT5bqc55yM
+businessCountry:: 5Yuk5YuZ77ya5Zu9
+businessUrl: http://example.org/corp
+telephoneNumber:: 5Yuk5YuZ77yaVEVM
+fax:: 5Yuk5YuZ77yaRkFY
+pager:: 5Yuk5YuZ77yacGhvbmU=
+o:: 5Lya56S+5ZCN
+title:: 5Yuk5YuZ77ya5b256IG3
+ou:: 5Yuk5YuZ77ya6YOo572y
+ou:: 5Yuk5YuZ77ya44Kq44OV44Kj44K5
+ipPhone:: 5Yuk5YuZ77yaSVBwaG9uZQ==
+ntUserComment:: 6L+95Yqg5oOF5aCxDQrjgZ3jga7ku5YNCuODoeODog==
+
+# 
+dn:: Y24944OV44Kp44Or44OA4pGg
+cn:: 44OV44Kp44Or44OA4pGg
+
+# 
+dn:: Y24944OV44Kp44Or44OA4pGh
+cn:: 44OV44Kp44Or44OA4pGh
+
+# 
+dn:: Y24944OV44Kp44Or44OA4pGi
+cn:: 44OV44Kp44Or44OA4pGi
+
+# 
+dn:: Y24944OV44Kp44Or44OAIOKRoA==
+cn:: 44OV44Kp44Or44OAIOKRoA==
+sn:: 44OV44Kp44Or44OA
+givenName:: 4pGg
+
+# Folder 3
+dn: cn=Folder 3
+cn: Folder 3
+sn: Folder
+givenName: 3
+
+# 
+dn:: Y24944OV44Kp44Or44OAIOKFoQ==
+cn:: 44OV44Kp44Or44OAIOKFoQ==
+sn:: 44OV44Kp44Or44OA
+givenName:: 4oWh
+
+# 
+dn: cn=<"123">
+cn:: PCIxMjMiPg==
+ntUserComment:: R3I6bWVtbw0KbWVtbzINCm1lbW8zMw==
+businessUrl: http://example.org/group/
+fax: Gr:fax
+homePhone: Gr:tel
+c:: R3I65Zu9
+st: Gr:todou
+postalCode: Gr:yubin
+l: Gr:city
+street:: R3I6YmFuY2hpDQpiYW5jaGkgMg0KYmFuY2hpIDM=
+
+# Gr1
+dn: cn=Gr1
+cn: Gr1
+

@@ -1,0 +1,90 @@
+dn:: Y2495p6a5bKhIOWkqumDjixtYWlsPXRlc3RAZXhhbXBsZS5jb20=
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName:: 5aSq6YOO
+sn:: 5p6a5bKh
+cn:: 5p6a5bKhIOWkqumDjg==
+mozillaNickname:: 44Gy44KJ44GK44GL44GV44KT
+mail: test@example.com
+mozillaSecondEmail: test@example.org
+modifytimestamp: 1412060730
+telephoneNumber:: 5Yuk5YuZ5YWI
+homePhone:: 6Ieq5a6F
+facsimiletelephonenumber: FAX
+pager:: 44Od44Kx
+mobile:: 44Kx44O844K/44Kk
+mozillaHomeStreet:: 55Wq5ZywMQ==
+mozillaHomeStreet2:: 55Wq5ZywMg==
+mozillaHomeLocalityName:: 5biC5Yy655S65p2R
+mozillaHomeState:: 6YO96YGT5bqc55yM
+mozillaHomePostalCode:: 44CS
+mozillaHomeCountryName:: 5Zu9
+street:: 5LuV5LqL77ya55Wq5ZywMQ==
+mozillaWorkStreet2:: 5LuV5LqL77ya55Wq5ZywMg==
+l:: 5LuV5LqL77ya5biC5Yy655S65p2R
+st:: 5LuV5LqL77ya6YO96YGT5bqc55yM
+postalCode:: 5LuV5LqL77ya44CS
+c:: 5LuV5LqL77ya5Zu9
+title:: 5LuV5LqL77ya5b256IG3
+ou:: 5LuV5LqL77ya6YOo44KCcOOCkw==
+o:: 5LuV5LqL77ya57WE57mU
+mozillaWorkUrl: http://example.org/kaisha
+mozillaHomeUrl: http://example.org/ie
+birthyear: 2014
+birthmonth: 09
+birthday: 29
+mozillaCustom1:: 6L+95YqgMQ==
+mozillaCustom2:: 6L+95YqgMg==
+mozillaCustom3:: 6L+95YqgMw==
+mozillaCustom4:: 6L+95YqgNA==
+description:: 44Oh44OiMQrjg6Hjg6IyCuODoeODojM=
+
+dn:: Y24944OV44Kp44Or44OAMQ==
+objectclass: top
+objectclass: groupOfNames
+cn:: 44OV44Kp44Or44OAMQ==
+mozillaNickname:: 44Oq44K544OI44Gu44OL44OD44Kv44ON44O844Og
+description:: 6Kqs5piO
+member:: Y2495p6a5bKhIOWkqumDjixtYWlsPXRlc3RAZXhhbXBsZS5jb20=
+member: cn=All 3,mail=all3@example.org
+
+dn:: Y24944OV44Kp44Or44OAMg==
+objectclass: top
+objectclass: groupOfNames
+cn:: 44OV44Kp44Or44OAMg==
+member: cn=All 3,mail=all3@example.org
+member:: Y24944OV44Kp44Or44OAIDLjgZXjgpMs44Gn44GZLG1haWw9ZjJAZXhhbXBsZS5vcmc=
+
+dn:: Y24944OV44Kp44Or44OAMw==
+objectclass: top
+objectclass: groupOfNames
+cn:: 44OV44Kp44Or44OAMw==
+member: cn=All 3,mail=all3@example.org
+
+dn:: Y24944OV44Kp44Or44OAIDLjgZXjgpMs44Gn44GZLG1haWw9ZjJAZXhhbXBsZS5vcmc=
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName:: MuOBleOCkyzjgafjgZk=
+sn:: 44OV44Kp44Or44OA
+cn:: 44OV44Kp44Or44OAIDLjgZXjgpMs44Gn44GZ
+mail: f2@example.org
+modifytimestamp: 1412061451
+
+dn: cn=All 3,mail=all3@example.org
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: 3
+sn: All
+cn: All 3
+mail: all3@example.org
+modifytimestamp: 0
+
